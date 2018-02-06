@@ -363,4 +363,4 @@ I followed the tutorial online
 * Leticia Ulloa
 * La Chilindrina
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
-* Tanya Gupta https"//github.com/tanyagupta
+* Tanya Gupta https://github.com/tanyagupta 
